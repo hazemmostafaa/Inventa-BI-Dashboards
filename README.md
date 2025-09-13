@@ -19,10 +19,9 @@ I designed and built the following dashboards using **Power BI**:
 - 💰 Sales Dashboard  
 
 ## 🖼️ Dashboard Previews
-| Dashboard | Screenshot |
-|-----------|------------|
+
 | Overview  | ![overview](https://github.com/user-attachments/assets/d4b16b1b-6979-4a4b-94ec-b8a40ba3719c)
-|
+
 
 
 | Inventory | ![inventory](https://github.com/user-attachments/assets/8c25dc4f-9515-42cc-a5d2-4517529e80d9)|
